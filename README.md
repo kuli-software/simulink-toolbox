@@ -1,2 +1,2 @@
 # KULI simulink-toolbox
-Simulink toolbox which enables easy integration of KULI thermal simulation software into Matlab/Simulink
+The KULI Simulink toolbox integrates a KULI thermal model in Matlab/Simulink
